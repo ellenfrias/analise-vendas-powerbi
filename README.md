@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma análise detalhada do faturamento e performance de produtos de uma empresa de varejo, utilizando o **Power BI**.
 
-![Capa do Dashboard](link-da-sua-foto-aqui)
+![Capa do Dashboard](https://github.com/ellenfrias/analise-vendas-powerbi/blob/main/dashboard.PNG?raw=true)
 
 ## 🎯 Objetivo
 Transformar dados brutos de faturamento em insights visuais para apoiar a tomada de decisão gerencial, focando em distribuição geográfica e tendências temporais.
